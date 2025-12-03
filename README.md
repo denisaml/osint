@@ -20,7 +20,7 @@ S-a utilizat modelul VADER (Valence Aware Dictionary and sEntiment Reasoner) pen
 
 Vizualizarea din Kibana, intareste rezultatele obtinute mai sus, prin reprezentarea sentimentelor pe intregul set de postari. Se poate observa majoritatea postarilor sunt pozitive/neutre (aprox. 90%), pe cand doar aprox. 9% sunt negative. 
 
-<img src="media/sentiment.png">
+<img src="media/Sentiment.png">
 
 ### Modelarea Grafului
 
